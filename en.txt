@@ -1,0 +1,9 @@
+didnt:v
+you:p
+see:v
+what:n
+i:p
+was:mv
+typing:v
+did:v
+there:n
